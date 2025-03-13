@@ -1,0 +1,14 @@
+D:\C#VisualStudio\PingPongV2\PingPongV2\bin\Debug\net8.0\PingPongV2.exe
+D:\C#VisualStudio\PingPongV2\PingPongV2\bin\Debug\net8.0\PingPongV2.deps.json
+D:\C#VisualStudio\PingPongV2\PingPongV2\bin\Debug\net8.0\PingPongV2.runtimeconfig.json
+D:\C#VisualStudio\PingPongV2\PingPongV2\bin\Debug\net8.0\PingPongV2.dll
+D:\C#VisualStudio\PingPongV2\PingPongV2\bin\Debug\net8.0\PingPongV2.pdb
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\PingPongV2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\PingPongV2.AssemblyInfoInputs.cache
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\PingPongV2.AssemblyInfo.cs
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\PingPongV2.csproj.CoreCompileInputs.cache
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\PingPongV2.dll
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\refint\PingPongV2.dll
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\PingPongV2.pdb
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\PingPongV2.genruntimeconfig.cache
+D:\C#VisualStudio\PingPongV2\PingPongV2\obj\Debug\net8.0\ref\PingPongV2.dll
